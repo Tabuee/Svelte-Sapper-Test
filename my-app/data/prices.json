@@ -1,0 +1,32 @@
+[
+  {
+    "validDate" : "2018-01-01",
+    "value" : 13518,
+    "unit": "€",
+    "name" : "base"
+  },
+  {
+    "validDate" : "2018-01-01",
+    "value" : 2469,
+    "unit": "kwH",
+    "name" : "power"
+  },
+  {
+    "validDate" : "2018-01-01",
+    "value" : 500,
+    "unit": "m³",
+    "name" : "gas"
+  },
+  {
+    "validDate" : "2019-04-01",
+    "value" : 17862,
+    "unit": "€",
+    "name" : "base"
+  },
+  {
+    "validDate" : "2019-04-01",
+    "value" : 2582,
+    "unit": "kwH",
+    "name" : "power"
+  }
+]
